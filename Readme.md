@@ -1,1 +1,1 @@
-Esse projeto é um jogo em que o computador escolhe um número aleatório e o usuário precisa adivinhar qual foi.
+Esse projeto é um jogo feito em Python em que o usuário deve adivinhar o número que o computador escolheu aleatoriamente.
